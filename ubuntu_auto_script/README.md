@@ -1,7 +1,8 @@
 # scriptコマンドを自動実行する .bash_aliases
 
-開発・勉強用ubuntuのターミナルも操作ログを撮っておきたかったので作成
-VisualStudioCode 上のターミナル分も保存
+開発・勉強用ubuntuのターミナルも操作ログを取っておきたかったので作成
+
+VisualStudioCode 上のターミナル分も保存する
 
 # Requirement 
 
